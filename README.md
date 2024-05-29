@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beratgezgnci
 - 👀 I’m interested in Motorcycles
-- 🌱 I’m currently learning c# and html
+- 🌱 I’m currently learning c#, html and phyton 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Facebook or Linkedin
 - 😄 Pronouns: ...
